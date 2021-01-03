@@ -1,0 +1,40 @@
+Questions/Thèmes abordés :
+
+link : https://www.kaggle.com/stallians/do-teams-playing-home-have-an-advantage
+
+1) Une equipe est-elle favorisée et avantagée à domicile ? 
+	-propotion de match gagnés a dom/ext
+	-buts marqués (dom/ext) et buts pris
+	-difference de score (marqués et pris)
+	-Influence sur l'arbitre (biscotte dégainé)
+	-Corrélation entre distance du déplacement et defaite de l'equipe
+
+2) Ya t-il une stratégie (feuille de match) plus adapté a d'autres pour l'obtention de victoires
+	- formation sur le terrain (4-4-3 etc)
+	- usage des remplacants (quand (contexte du match) , quel profil)
+	- usage des postes ( ex: pogba (offensif) vs kante (def) )
+	- collectif ou individualité prime ?
+
+
+3) Peut on hierarchiser les leagues européennes par niveau ?
+	- Analyse des top équipes / low equipes (isolé, croisé) 
+	- Regarder le nombre de club par league qui ont gagnés les compétitions
+
+
+4) Est ce que certaines (combinaisons de) caracteristiques indivuduelles favorisent la performance d'un joueur par rapport à son role
+	 -Feature selection d'attribut pour l'évaluation d'une perf
+
+
+-L'importance des buts chronologiquement
+	-Ya-t-il des buts plus importants que d'autres chronologiquement ? 
+	-Comparaison but 1ere mi temps/2eme 
+	-Facteur psychologique ( general ? )
+
+
+-Est ce que les clubs qui ont beaucoup d'activités de transfert ont de meilleure performances ?
+	- Comparaison transfert (moyen financiers utilisés)
+	- Changement d'entraineur
+	- Changement de joueur
+	- Changement de staff
+
+
