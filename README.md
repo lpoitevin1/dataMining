@@ -35,7 +35,7 @@ via pip3 :
 <code> pip3 install <nom_librairie> </code>
 
 # Démarrage 
-* <code> cd "/chemin/du/projet" </code>
+* <code> cd /chemin/du/projet </code>
 * <code> jupyter notebook </code>
 
 # Architecture projet 
