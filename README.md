@@ -35,8 +35,8 @@ via pip3
 <code> pip3 install <nom_librairie> </code>
 
 # Démarrage 
-<code> cd "/chemin/du/projet" </code>
-<code> jupyter notebook </code>
+* <code> cd "/chemin/du/projet" </code>
+* <code> jupyter notebook </code>
 
 # Architecture projet 
 L'arborescence du projet est simple avec deux fichiers notebook qui contient le code d'analyse des problématiques suivantes:
