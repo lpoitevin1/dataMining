@@ -27,7 +27,7 @@ Elle est consitué de :
 via conda : 
 <code>  conda install -c conda-forge jupyterlab </code>
 
-via pip3
+via pip3 :
 <code> pip3 install jupyterlab </code>
 
 ## Librairies utilisé :
