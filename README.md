@@ -34,12 +34,12 @@ via pip3 :
 ### numpy, pandas, seaborn, matplotlib, pysqlite3
 <code> pip3 install <nom_librairie> </code>
 
-# Démarrage 
-* <code> cd /chemin/du/projet </code>
-* <code> jupyter notebook </code>
-
 # Architecture projet 
 L'arborescence du projet est simple avec deux fichiers notebook qui contient le code d'analyse des problématiques suivantes:
 * Une équipe est-elle avantagée a domicile.ipynb
 * 
 * Un dossier data/ qui contient l'ensemble des données nécéssaire à l'execution du code sous Jupyter Notebook.
+
+# Démarrage 
+* <code> cd /chemin/du/projet </code>
+* <code> jupyter notebook </code>
