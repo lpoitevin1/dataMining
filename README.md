@@ -36,7 +36,7 @@ via pip3 :
 
 # Architecture projet 
 L'arborescence du projet est simple avec deux fichiers notebook qui contient le code d'analyse des problématiques suivantes:
-* Une équipe est-elle avantagée a domicile.ipynb
+* Une équipe est-elle avantagée a domicile ?
 * 
 * Un dossier data/ qui contient l'ensemble des données nécéssaire à l'execution du code sous Jupyter Notebook.
 
