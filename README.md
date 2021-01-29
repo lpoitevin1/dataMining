@@ -1,7 +1,7 @@
 
 # Auteurs
-* POITEVIN Louis 
-* numéro étudiant: 11410541
+POITEVIN Louis 
+numéro étudiant: 11410541
 
 # European Soccer Database Analysis
 
@@ -21,6 +21,11 @@ Elle est consitué de :
 * Team : Contient la liste des equipes de chaque ligue.
 * Team_Attributes : Contient les caractéristiques sportives propres aux équipes.
 
+# Vidéo  
+
+La vidéo de vulgarisation est disponible dans le repertoire /video. 
+Une vidéo de 3 minutes ne me donnait pas l'opportunité de dévoiler une vue globale du projet donc j'ai décidé de me concentrer sur une analyse en particulier : Quels attributs d'équipe un entraineur devrait privilégier ?
+
 # Pré-requis : 
 
 ## Jupyter notebook
@@ -36,10 +41,10 @@ via pip3 :
 
 # Architecture projet 
 L'arborescence du projet est simple avec deux fichiers notebook qui contient le code d'analyse des problématiques suivantes:
-* Choix strategiques pour composer la feuille de match d un entraineur
 * Une équipe est-elle avantagée a domicile ?
+* Choix strategiques pour composer la feuille de match d un entraineur.ipynb
 * Un dossier data/ qui contient l'ensemble des données nécéssaire à l'execution du code sous Jupyter Notebook.
-
+* Un dossier video/ qui contient la vidéo de vulgarisation 
 # Démarrage 
 * <code> cd /chemin/du/projet </code>
 * <code> jupyter notebook </code>
