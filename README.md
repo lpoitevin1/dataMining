@@ -1,7 +1,7 @@
 
 # Auteurs
-POITEVIN Louis 
-numéro étudiant: 11410541
+* POITEVIN Louis 
+* numéro étudiant: 11410541
 
 # European Soccer Database Analysis
 
@@ -36,8 +36,8 @@ via pip3 :
 
 # Architecture projet 
 L'arborescence du projet est simple avec deux fichiers notebook qui contient le code d'analyse des problématiques suivantes:
+* Choix strategiques pour composer la feuille de match d un entraineur
 * Une équipe est-elle avantagée a domicile ?
-* 
 * Un dossier data/ qui contient l'ensemble des données nécéssaire à l'execution du code sous Jupyter Notebook.
 
 # Démarrage 
