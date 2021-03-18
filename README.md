@@ -1,5 +1,5 @@
 
-# Auteurs
+# Auteur
 POITEVIN Louis 
 numéro étudiant: 11410541
 
@@ -45,6 +45,7 @@ L'arborescence du projet est simple avec deux fichiers notebook qui contient le 
 * Choix strategiques pour composer la feuille de match d un entraineur.ipynb
 * Un dossier data/ qui contient l'ensemble des données nécéssaire à l'execution du code sous Jupyter Notebook.
 * Un dossier video/ qui contient la vidéo de vulgarisation 
+* Un rapport PDF de l'analyse détaillée des problématiques abordées
 # Démarrage 
 * <code> cd /chemin/du/projet </code>
 * <code> jupyter notebook </code>
